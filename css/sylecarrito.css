@@ -1,0 +1,232 @@
+.body{
+    position: relative;
+    background-color: rgb(235, 200, 255);
+    width: 100%;
+    height: 100%;
+}
+.titulo{
+    position: absolute;
+    top: 2vi;
+    left: 4vi;
+    font-size: 2.5vi;
+    font-family:cursive;
+    color: white;
+}
+.enlace1{
+    position: absolute;
+    top: 14vi;
+    left: 4vi;
+    font-size: 1.8vi;
+    font-family:cursive;
+    color:white;
+    text-decoration: none;
+    
+}
+.enlace2{
+    position: absolute;
+    top: 19vi;
+    left: 4vi;
+    font-size: 1.9vi;
+    font-family:cursive;
+    color: white;
+    text-decoration: none;
+    
+}
+.enlace3{
+    position: absolute;
+    top: 24vi;
+    left: 4vi;
+    font-size: 1.9vi;
+    font-family:cursive;
+    color: white;
+    text-decoration: none;    
+}
+.enlace4{
+    position: absolute;
+    top: 29vi;
+    left: 4vi;
+    font-size: 1.9vi;
+    font-family:cursive;
+    color: white;
+    text-decoration: none;
+    
+}
+.enlace5{
+    position: absolute;
+    top: 39vi;
+    left: 4vi;
+    font-size: 2vi;
+    font-family:cursive;
+    color: rgb(235, 200, 255);
+    text-decoration: none;
+    
+}
+.num3{
+    position: absolute;
+    top: 39vi;
+    left: 12vi;
+    font-size: 2vi;
+    font-family:cursive;
+    color:rgb(235, 200, 255);
+    text-decoration: none;
+}
+.recuadro1{
+    position: absolute;
+    width: 17vi;
+    height: 3vi;
+    top: 38.5vi;
+    left: 2.55vi;
+    background-color: white;
+
+}
+.recuadro2{
+    position: absolute;
+    width: 2.5vi;
+    height: 2.5vi;
+    top: 38.8vi;
+    left: 11.2vi;
+    background-color: white;
+
+}
+.footer{
+    position: absolute;
+    top: 48vi;
+    left: 4vi;
+    font-size: 1.3vi;
+    color: white;
+    
+}
+
+
+.cuadro1{
+    width: 70vi;
+    height: 9vi;
+    top: 6vi;
+    left: 10.5%;
+    border: 1px solid black;
+
+}
+.nombre1{
+    position: absolute;
+    color: rgb(235, 200, 255);;
+    top: 10vi;
+    left: 35vi;
+    font-size: 1.5vi;
+
+}
+
+.cuadro2{
+    width: 70vi;
+    height: 9vi;
+    top: 16vi;
+    margin-left: 24.5%;
+    border: 1px solid black;
+
+}
+.nombre2{
+    position: absolute;
+    color: rgb(235, 200, 255);;
+    top: 20vi;
+    left: 35vi;
+    font-size: 1.5vi;
+
+}
+
+.cuadro3{
+    position: absolute;
+    width: 70vi;
+    height: 9vi;
+    top: 26vi;
+    margin-left: 24.5%;
+    border: 1px solid black;
+
+}
+.nombre3{
+    position: absolute;
+    color: rgb(235, 200, 255);;
+    top: 30vi;
+    left: 35vi;
+    font-size: 1.5vi;
+
+}
+
+.cuadro5{
+    position: absolute;
+    background-color: rgb(226, 190, 255);
+    width: 15vi;
+
+    height: 4vi;
+    top: 11.5vi;
+    left: 60vi;
+
+}
+.Vaciar{
+    position: absolute;
+    width: 10vi;
+    height: 2vi;
+    top: 42vi;
+    font-size: 1vi;
+    color: white;
+    text-align: center;
+    margin-left: 24.5%;
+    background-color: lightpink;
+    border-radius: 20px;
+
+
+}
+.pantalon1{
+    position: absolute;
+    width: 4vi;
+    left: 30vi;
+    top: 11vi;
+
+}
+.abrigoo2{
+    position: absolute;
+    width: 6vi;
+    left: 29vi;
+    top: 21vi;
+}
+.camiseta3{
+    position: absolute;
+    width: 6vi;
+    left: 29vi;
+    top: 31vi;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cuadrop{
+    position: absolute;
+    background-color: white;
+    width: 75vi;
+    height: 45vi;
+    left: 22vi;
+    top: 2.5vi;
+    border-radius: 20px;
+
+}
+.textocarrito{
+    position: absolute;
+    color: rgb(235, 200, 255);;
+    font-size: 3vi;
+    left: 5vi;
+    top: 3vi;
+}
