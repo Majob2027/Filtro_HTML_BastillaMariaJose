@@ -105,3 +105,93 @@
     border-radius: 20px;
 
 }
+.borde3{
+    position: absolute;
+    width:10.99vi;
+    height: 14.83vi;
+    margin-left: 7.9%;
+    margin-top: 3.95%;
+    border-color: black;
+    background-color: black;
+    border-radius: 10px;
+}
+.cuadro3{
+    position: absolute;
+    width:14.5%;
+    height: 14.7vi;
+    margin-left: 8%;
+    margin-top: 4%;
+    border-color: black;
+    border-radius: 10px;
+}
+.informacion3{
+    position: absolute;
+    width: 10vi;
+    height: 5vi;
+    top: 18vi;
+    left: 7vi;
+    border-color: black;
+    background-color: white;
+    font-size: 1vi;
+
+
+
+}
+.boton3{
+    position: absolute;
+    width: 3vi;
+    height: 1.5vi;
+    left: 5vi;
+    top: 2.5vi;
+    background-color: rgb(235, 200, 255);;
+    cursor: pointer;
+    font-size: 1vi;
+
+
+}
+
+
+.borde4{
+    position: absolute;
+    width:10.97vi;
+    height: 14.83vi;
+    margin-left: 30%;
+    margin-top: 3.95%;
+    border-color: black;
+    background-color: black;
+    border-radius: 10px;
+}
+.cuadro4{
+    position: absolute;
+    width:14.5%;
+    height: 14.7vi;
+    margin-left: 30.1%;
+    margin-top: 4%;
+    border-color: black;
+    border-radius: 10px;
+}
+.informacion4{
+    position: absolute;
+    width: 10vi;
+    height: 5vi;
+    top: 19vi;
+    left: 23.5vi;
+    border-color: black;
+    background-color: white;
+    font-size: 1vi;
+
+
+
+}
+.boton4{
+    position: absolute;
+    width: 3vi;
+    height: 1.5vi;
+    left: 5vi;
+    top: 2.3vi;
+    background-color: rgb(235, 200, 255);;
+    cursor: pointer;
+    font-size: 1vi;
+
+
+}
